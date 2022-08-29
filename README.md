@@ -1,4 +1,4 @@
-# Тестовое задания для Karpov Courses Симулятор ML
+# Тестовое задание для Karpov Courses Симулятор ML
 
 
 * Python 3.8.10 (pyenv)
